@@ -1,0 +1,160 @@
+{
+  "_meta": {
+    "description": "Stated Qatar government priorities, KPIs, and acknowledged challenges for transportation/infrastructure. Collected 2026-05-12.",
+    "limitations": "Qatar's full NDS3 PDF (gco.gov.qa) returned 403 to fetcher; relying on official news summary + Oxford Business Group + Ministry of Transport press releases."
+  },
+  "documents": [
+    {
+      "name": "Qatar National Vision 2030 (QNV2030)",
+      "url": "https://www.gco.gov.qa/en/state-of-qatar/qatar-national-vision-2030/",
+      "year_published": 2008,
+      "horizon": "2030",
+      "pillars": ["Human Development", "Social Development", "Economic Development", "Environmental Development"],
+      "transport_relevant_signals": [
+        "Environmental Development pillar: harmony between growth and environment",
+        "Economic Development pillar: diversification, infrastructure",
+        "Implementation supported by Transport Master Plan 2050 (TMPQ 2050)"
+      ]
+    },
+    {
+      "name": "Third Qatar National Development Strategy (NDS3) 2024-2030",
+      "url": "https://cm.gov.qa/en/Pages/Third-Qatar-National-Development-Strategy-2024-2030.aspx",
+      "year_published": 2024,
+      "horizon": "2024-2030",
+      "transport_priorities": [
+        "Three growth clusters: logistics, manufacturing, tourism",
+        "Establish Qatar as re-export centre for high-value products",
+        "Strengthen air transport sector for international competitiveness"
+      ],
+      "kpis": [
+        "25% reduction in greenhouse gas emissions by 2030 (cross-sector, transport is a contributor)"
+      ]
+    },
+    {
+      "name": "Ministry of Transport Strategy 2025-2030 ('Reaching Beyond Horizons')",
+      "url": "https://mot.gov.qa/en/news/prime-minister-launches-ministry-transport-strategy-2025-2030",
+      "year_published": 2025,
+      "horizon": "2025-2030",
+      "funding_qar": 1200000000,
+      "private_share_pct": 40,
+      "structure": {
+        "initiatives": 42,
+        "projects": 125,
+        "specialized_initiatives_for_public_transport": 17
+      },
+      "stated_priorities": [
+        "World-class infrastructure for logistics performance and digital transformation",
+        "Enhance public transportation efficiency (reliable, convenient, eco-friendly)",
+        "Smart mobility innovation and advanced technologies integration",
+        "Improve traffic safety standards and reduce carbon emissions",
+        "Support economic diversification through transport/logistics",
+        "Human capital development and local workforce upskilling",
+        "Network resilience and sustainability"
+      ],
+      "kpis": [
+        "73% public bus electrification achieved (2024 Q1) -> 100% by 2030",
+        "35% of all vehicles electric by 2030 (per QNECCS, cross-referenced)",
+        "Double transportation industry's contribution to GDP",
+        "Qatar ranks #1 in region for electric transit switching"
+      ],
+      "vision_quote": "integrated, secure, resilient, and sustainable transport ecosystem"
+    },
+    {
+      "name": "Transportation Master Plan for Qatar 2050 (TMPQ 2050)",
+      "url": "https://www.mot.gov.qa/en/land-transport/transportation-master-plan-for-qatar-2050",
+      "year_published": 2022,
+      "horizon": "2022-2050",
+      "structure": {
+        "road_network_projects": 37,
+        "road_network_km": 770,
+        "public_transit_projects": 30,
+        "public_transit_km": 540,
+        "national_land_transport_policies": 60,
+        "pedestrian_cycling_lanes_km_built_2013_2022": 2131
+      },
+      "stated_priorities": [
+        "Sustainable transport mode shift",
+        "Electric and low-emission options",
+        "Non-motorized transport promotion",
+        "Smart growth around metro stations"
+      ]
+    },
+    {
+      "name": "Qatar Freight Master Plan (QFMP)",
+      "url": "https://www.mot.gov.qa/en/news/ministry-finalizes-qatar-freight-master-plan",
+      "year_published": 2024,
+      "horizon": "extending to 2050",
+      "stated_priorities": [
+        "Upgrade ground + maritime freight infrastructure",
+        "Top 15 globally in Logistics Performance Index (target)",
+        "Efficiency and intermodality (maritime/rail/air/road transitions)",
+        "Reduce truck-movement impact on traffic flow",
+        "Freight route design + GIS portal",
+        "Automation, data-driven logistics, smart freight systems"
+      ],
+      "acknowledged_challenges": [
+        "Truck movement impacting traffic flow (implicit)",
+        "Intermodal inefficiency between transport modes"
+      ]
+    },
+    {
+      "name": "TASMU Smart Qatar - Transportation Pillar",
+      "url": "https://tasmu.gov.qa/transportation",
+      "year_published": "2017+ (active program)",
+      "kpis": [
+        "20% reduction in road network delays",
+        "Reduce road fatalities to 6 per 100,000",
+        "10% reduction in average vehicle trip emissions"
+      ],
+      "use_cases_by_status": {
+        "initiated": ["Digital Travel Guide", "Real-time Crowd Analytics"],
+        "tendered": ["eBike Sharing", "eCar Sharing", "Road to Vehicle Communication (V2I)", "Intelligent Road Signage"],
+        "not_initiated": ["Augmented City", "Contextual Indoor Navigation", "Autonomous Neighborhood Fleet", "Car Pooling", "Smart Taxi", "Accessible Transportation", "Instant Signage Translation", "Public Transport Social Listening", "Connected Vehicle (V2V)", "Smart Vehicle Monitoring"]
+      },
+      "implication": "Many high-priority TASMU use cases remain 'not initiated' — opportunity for research that quantifies the demand or impact of these."
+    },
+    {
+      "name": "Qatar Public Transport Master Plan (QPTMP) - in progress",
+      "url": "https://thepeninsulaqatar.com/article/10/06/2025/mot-public-survey-to-shape-modern-public-transport-continues",
+      "year_active": 2025,
+      "stated_intent": "Study the status quo of traffic congestion of both private vehicles and public transport, and carbon emissions; propose solutions.",
+      "signal": "Government is ACTIVELY surveying public to inform this plan as of June 2025 — clear signal that congestion + modal split data are policy-relevant right now."
+    },
+    {
+      "name": "Qatar Autonomous Vehicle Strategy 2025-2030",
+      "url": "https://www.mot.gov.qa/en/land-transport/AutonomousVehicleStrategyinQatar",
+      "year_published": 2025,
+      "horizon": "2025-2030",
+      "stated_priorities": [
+        "Level 3+ AV infrastructure readiness",
+        "Driverless vehicle trials (electric taxis already piloted)",
+        "Smart mobility integration"
+      ]
+    },
+    {
+      "name": "Ashghal Expressway Programme",
+      "publisher": "Public Works Authority (Ashghal)",
+      "year_published": "Launched 2017, completed pre-WC 2022",
+      "scale": {
+        "km_built_by_2022": 935,
+        "additional_planned_to_2030_km": 150,
+        "projects": 30
+      },
+      "stated_goal": "Alleviate congestion, enhance commuter connectivity"
+    }
+  ],
+  "summary_of_acknowledged_gaps_or_problems": {
+    "explicit_acknowledgements": [
+      "Government's QPTMP survey (June 2025) explicitly intends to STUDY status quo of congestion — implies they lack systematic baseline data",
+      "Doha Metro <30% adoption among economically active population (per QU/MDPI 2025) — public data finding cited in funded research",
+      "Truck-traffic interaction with passenger flow flagged by QFMP",
+      "Many TASMU smart-mobility use cases unfunded after 6+ years — signals execution gap"
+    ],
+    "implicit_signals": [
+      "Despite >$100B spent on roads (95% of transport investment), congestion remains a stated concern in multiple strategy documents",
+      "Vehicle fleet grew 13.7% YoY in 2024 (62,163 new registrations Jan-Aug 2024) — supply-demand pressure unmodeled",
+      "Three-peak daily traffic pattern (06:30/12:30/17:15) is unique to Qatar but minimally studied",
+      "Government has set sharp 2030 KPIs (35% EV fleet, 100% electric buses, 25% GHG cut) but no published academic evaluation of plausibility / interim progress"
+    ]
+  }
+}

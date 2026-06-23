@@ -1,0 +1,237 @@
+{
+  "_meta": {
+    "description": "Global academic literature on Qatar transportation/infrastructure (papers by non-Qatar-based authors or international collaborations). Filtered 2018-2026. Collected 2026-05-12.",
+    "limitations": "Google Scholar not directly queryable; relying on surface web search of ScienceDirect/MDPI/ResearchGate/IEEE results. Paywalled abstracts mostly visible. Several results are from Qatar-based authors but published in international journals — those have been kept here when international visibility is part of the relevance signal."
+  },
+  "papers": [
+    {
+      "title": "Spatiotemporal analysis of road network evolution and urban growth in rapidly developing cities: The case of Doha metropolitan",
+      "authors": ["unknown"],
+      "institution": "ScienceDirect (Cities and Society / 2667-0917)",
+      "year": 2026,
+      "abstract_snippet": "Uses dot density maps, isochrone ORS analysis, GIS Geohash Density Mapping. Identifies 3 factors: megaprojects/connectivity, national policy/land use, population/road network coverage. Concludes ideal growth direction is west and north.",
+      "methodology": "GIS-based spatiotemporal analysis, isochrone analysis (walk/cycle/car), geohash density mapping",
+      "data_source": "OSM road network + planning documents + population data",
+      "time_period_studied": "longitudinal — multiple snapshots up to 2024",
+      "key_finding": "Doha's road network growth has not been aligned with population centers; recommends infill west/north",
+      "funding_source": "unknown",
+      "url": "https://www.sciencedirect.com/science/article/pii/S230718772600026X",
+      "access": "open_or_partial",
+      "competitor_status": "PRIMARY COMPETITOR identified by user"
+    },
+    {
+      "title": "Driverless Metro Service in Doha, Qatar Expected to Reduce Daily Traffic by 190,000 Private Automobiles and CO2 Emissions by 19.42 Kilo Tons",
+      "authors": ["US DOT ITS KRS entry"],
+      "institution": "USDOT (citing Qatar metro projections)",
+      "year": 2023,
+      "abstract_snippet": "Projects metro displacement of ~190k cars/day, 19.42 kt CO2/yr, 3.15 t PM10, 11.45 t SO2 reductions.",
+      "methodology": "Projection / scenario modeling",
+      "data_source": "Metro planning projections",
+      "time_period_studied": "Forward-looking from 2019",
+      "key_finding": "Projected metro impact; not measured ex-post",
+      "funding_source": "USDOT compilation",
+      "url": "https://www.itskrs.its.dot.gov/2023-b01774",
+      "access": "open"
+    },
+    {
+      "title": "Social impact assessment towards sustainable urban mobility in Qatar: Understanding behavioral change triggers",
+      "authors": ["unknown"],
+      "institution": "Transportation Research Interdisciplinary Perspectives",
+      "year": 2021,
+      "abstract_snippet": "Behavioral change triggers for sustainable mobility shift in Qatar.",
+      "methodology": "Social impact assessment, behavioral analysis",
+      "data_source": "Survey + qualitative",
+      "time_period_studied": "2019-2020",
+      "key_finding": "Identifies psychological and socioeconomic triggers for modal shift",
+      "funding_source": "unknown",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590198220302062",
+      "access": "open"
+    },
+    {
+      "title": "Evaluation of sustainable urban mobility using comparative environmental life cycle assessment: A case study of Qatar",
+      "authors": ["unknown"],
+      "institution": "Transportation Research Interdisciplinary Perspectives",
+      "year": 2019,
+      "abstract_snippet": "Compared LCA of automobiles vs metro: 78pp reduction in climate change impact, 100pp reduction in PM formation.",
+      "methodology": "Life Cycle Assessment",
+      "data_source": "Metro & auto operational data",
+      "time_period_studied": "2018-2019",
+      "key_finding": "Metro has 78pp lower climate impact than autos",
+      "funding_source": "unknown",
+      "url": "https://www.sciencedirect.com/science/article/pii/S259019821930003X",
+      "access": "open"
+    },
+    {
+      "title": "Rapid urban development and national master planning in Arab Gulf countries — Qatar as a case study",
+      "authors": ["unknown"],
+      "institution": "Cities journal, Elsevier",
+      "year": 2014,
+      "abstract_snippet": "Master planning evolution in GCC with Qatar case. NPRP 5-074-5-015.",
+      "methodology": "Policy + planning historical review",
+      "data_source": "Planning documents",
+      "time_period_studied": "approx 2000-2013",
+      "key_finding": "Catalogs Qatar's master planning evolution",
+      "funding_source": "NPRP 5-074-5-015",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0264275114000274",
+      "access": "paywalled"
+    },
+    {
+      "title": "Quantifying the impact of COVID-19 preventive measures on traffic in the State of Qatar",
+      "authors": ["unknown"],
+      "institution": "PMC indexed",
+      "year": 2022,
+      "abstract_snippet": "Lockdown / restrictions effects on Qatar traffic flows.",
+      "methodology": "Before-after comparison, traffic counts",
+      "data_source": "Traffic counts",
+      "time_period_studied": "2019-2021",
+      "key_finding": "Quantifies COVID traffic reduction in Qatar",
+      "funding_source": "unknown",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9761787/",
+      "access": "open"
+    },
+    {
+      "title": "Sustainable Urban Mobility in Qatar: Transforming Doha's Built Environment through Transit-Oriented Development (TOD)",
+      "authors": ["unknown"],
+      "institution": "ScienceDirect",
+      "year": 2025,
+      "abstract_snippet": "TOD-based transformation of Doha's built environment.",
+      "methodology": "Case study + planning analysis",
+      "data_source": "Planning + GIS",
+      "time_period_studied": "2020-2024",
+      "key_finding": "Pushes TOD around metro stations as path to sustainable mobility",
+      "funding_source": "unknown",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2667091725000548",
+      "access": "open_or_partial"
+    },
+    {
+      "title": "Change analysis of land use/land cover and modelling urban growth in Greater Doha, Qatar",
+      "authors": ["unknown"],
+      "institution": "Taylor & Francis",
+      "year": 2015,
+      "abstract_snippet": "Landsat-based LU/LC change detection for Greater Doha; urban growth modeling.",
+      "methodology": "Remote sensing + CA-Markov / urban growth modeling",
+      "data_source": "Landsat TM/ETM+ 1987-2013",
+      "time_period_studied": "1987-2013",
+      "key_finding": "5.45% CAGR in urban area; peak 13.43% 1998-2003",
+      "funding_source": "unknown",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19475683.2014.992369",
+      "access": "open"
+    },
+    {
+      "title": "Rapid Urban Growth and Land Use Patterns in Doha, Qatar: Opportunities for Sustainability?",
+      "authors": ["unknown"],
+      "institution": "European Journal of Sustainable Development Research",
+      "year": 2018,
+      "abstract_snippet": "Land use patterns analysis of Doha for sustainability.",
+      "methodology": "Land use analysis",
+      "data_source": "Planning + LU data",
+      "time_period_studied": "approx 2000-2015",
+      "key_finding": "Documents land use sprawl patterns and sustainability tradeoffs",
+      "funding_source": "unknown",
+      "url": "https://www.ejosdr.com/article/FHMMVF1E",
+      "access": "open"
+    },
+    {
+      "title": "The Impact of Rapid Motorization and Urban Growth: An Analysis of the City of Doha, Qatar",
+      "authors": ["unknown"],
+      "institution": "Academia.edu archived",
+      "year": null,
+      "abstract_snippet": "INACCESSIBLE — title indicates motorization growth impact analysis.",
+      "methodology": "unknown",
+      "data_source": "unknown",
+      "time_period_studied": "unknown",
+      "key_finding": "unknown",
+      "funding_source": "unknown",
+      "url": "https://www.academia.edu/31094066/",
+      "access": "paywalled_or_account_required"
+    },
+    {
+      "title": "Factors Affecting Public Transportation Ridership in a High-income Developing Country",
+      "authors": ["unknown"],
+      "institution": "ScienceDirect",
+      "year": 2023,
+      "abstract_snippet": "Ridership determinants in Qatar/Doha context.",
+      "methodology": "Regression",
+      "data_source": "Ridership data",
+      "time_period_studied": "2019-2022",
+      "key_finding": "Key determinants of public transport ridership in Qatar identified",
+      "funding_source": "unknown",
+      "url": "https://www.sciencedirect.com/org/science/article/pii/S1874447823000052",
+      "access": "open_or_partial"
+    },
+    {
+      "title": "Asphalt Rideability Specification and Construction of Expressways in Qatar (CIC 2020)",
+      "authors": ["unknown"],
+      "institution": "CIC 2020 Conference, Doha",
+      "year": 2020,
+      "abstract_snippet": "International Roughness Index specification and construction quality for Ashghal expressway program.",
+      "methodology": "Engineering specification analysis",
+      "data_source": "Construction QA data",
+      "time_period_studied": "2017-2020",
+      "key_finding": "IRI specification and Qatar expressway construction quality",
+      "funding_source": "Ashghal",
+      "url": "https://www.researchgate.net/publication/339106654",
+      "access": "paywalled"
+    },
+    {
+      "title": "Who Is Going to Ride the Upcoming Metro in Qatar?",
+      "authors": ["unknown"],
+      "institution": "ResearchGate / journal",
+      "year": 2018,
+      "abstract_snippet": "Pre-launch projection of metro ridership demographics.",
+      "methodology": "Survey + projection",
+      "data_source": "Pre-launch survey",
+      "time_period_studied": "2017-2018",
+      "key_finding": "Demographic profiling of expected metro users",
+      "funding_source": "unknown",
+      "url": "https://www.researchgate.net/publication/326042779",
+      "access": "paywalled"
+    },
+    {
+      "title": "Exploring the potential of traffic index data to analyze essential traffic impact in developing cities",
+      "authors": ["unknown"],
+      "institution": "ResearchGate / international",
+      "year": 2020,
+      "abstract_snippet": "Discusses TomTom-style traffic index for developing cities (not Qatar-specific in surfaced content).",
+      "methodology": "Traffic index analysis methodology",
+      "data_source": "TomTom-style index",
+      "time_period_studied": "varies",
+      "key_finding": "Frames traffic index data utility in developing cities",
+      "funding_source": "unknown",
+      "url": "https://www.researchgate.net/publication/343841572",
+      "access": "open"
+    },
+    {
+      "title": "Developing Assessment Framework for Strategic Transportation Projects in Qatar",
+      "authors": ["unknown"],
+      "institution": "Academia.edu / TMPQ aligned",
+      "year": null,
+      "abstract_snippet": "Transportation Assessment Framework developed for Qatar TMP appraisal — NOT ex-post evaluation.",
+      "methodology": "Framework development",
+      "data_source": "TMP documents",
+      "time_period_studied": "Forward-looking",
+      "key_finding": "Provides ex-ante assessment framework only",
+      "funding_source": "unknown",
+      "url": "https://www.academia.edu/85510513/",
+      "access": "open_or_partial"
+    }
+  ],
+  "globally_documented_principles_relevant_to_Qatar_gap": [
+    {
+      "principle": "Fundamental Law of Road Congestion (Duranton & Turner, 2011): 1% increase in road capacity yields 1% increase in VMT — net congestion typically unchanged.",
+      "relevance": "Qatar spent 95% of $100B transport investment on roads. No published ex-post analysis tests whether this law holds in Doha."
+    },
+    {
+      "principle": "GCC PIM efficiency gap (IMF 2023): GCC has 'mismatched funding needs and budget allocations; lack of ex-post evaluations of investments; inadequate performance data and reporting.'",
+      "relevance": "Direct external endorsement of a gap. A Qatar-specific ex-post evaluation directly fills this acknowledged gap."
+    },
+    {
+      "principle": "Induced demand effect strongest in high-growth, low-density, car-dependent cities.",
+      "relevance": "Doha matches this profile (sprawl, SUVs, weak transit competition); never tested empirically."
+    },
+    {
+      "principle": "Mode shift outcomes from new metro systems vary 10x across studies depending on context (HK 40%+, US Sun Belt <5%).",
+      "relevance": "Doha Metro post-launch mode shift studied via surveys (RP/SP) but not via combined supply-demand panel."
+    }
+  ]
+}

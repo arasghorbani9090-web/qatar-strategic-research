@@ -1,0 +1,266 @@
+{
+  "_meta": {
+    "title": "Qatar Innovation Ecosystem Channels — Reference Inventory",
+    "description": "Structured inventory of research-funding mechanisms, innovation programs, procurement channels, and research-commissioning entities active in Qatar as of May 2026. Each entry includes the canonical URL, category, access type, and contextual notes.",
+    "compiled": "2026-05-12",
+    "scope": "Public-facing channel descriptions. Not a personal opportunity list — see ECOSYSTEM_LANDSCAPE.md for the analytical synthesis."
+  },
+  "categories": {
+    "tenders": "State and semi-government procurement portals",
+    "grants_research": "Research-grant funding mechanisms",
+    "grants_innovation": "Innovation-program funding and equity mechanisms",
+    "challenges": "Hackathons, competitions, cash-prize challenges",
+    "consultancy_licensing": "Regulatory pathways for licensed activities",
+    "research_commissioning": "Entities that directly commission research outputs"
+  },
+  "channels": [
+    {
+      "category": "tenders",
+      "entity": "Ministry of Finance — Monaqasat",
+      "description": "Unified state procurement portal",
+      "url": "https://monaqasat.mof.gov.qa/",
+      "access": "public_browse; registration required to bid",
+      "notes": "248 live tenders typical. Vendor registration plus MOF classification certificate required for bid submission. Bid-bond exemption available for consultancy / research / services below QAR 500,000."
+    },
+    {
+      "category": "tenders",
+      "entity": "Public Works Authority (Ashghal)",
+      "description": "Civil infrastructure and roads",
+      "url": "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Qatar Energy procurement",
+      "description": "Energy sector procurement",
+      "url": "https://www.qatarenergy.qa/en/SupplyManagement/Tenders/Pages/Howtotendercontractsdepartment.aspx",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Qatar Foundation supplier portal",
+      "description": "QF tenders cross-list to Monaqasat; separate registration required for QF-bid eligibility",
+      "url": "https://www.qf.org.qa/supplier-registration",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Kahramaa (Qatar General Electricity & Water Corporation)",
+      "description": "Electricity and water utility tenders",
+      "url": "https://www.km.qa/Business/pages/tenders.aspx",
+      "access": "registration_required_for_full_list"
+    },
+    {
+      "category": "tenders",
+      "entity": "Ooredoo Qatar e-procurement",
+      "description": "Telco vendor and tender portal",
+      "url": "https://www.ooredoo.qa/web/en/e-procurement/",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Mowasalat (Karwa) supplier portal",
+      "description": "Public transport operator",
+      "url": "https://supplier.mowasalat.com/",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Qatar Rail procurement",
+      "description": "Metro and rail infrastructure",
+      "url": "https://corp.qr.com.qa/English/Procurement",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Qatar Airways Group eSourcing (covers MATAR / Hamad International Airport)",
+      "description": "Airline and airport group procurement; iSupplier portal with 33 mandatory registration fields",
+      "url": "https://esourcing.qatarairways.com.qa/",
+      "access": "registration_required"
+    },
+    {
+      "category": "tenders",
+      "entity": "Qatar University procurement",
+      "description": "Research-related smaller tenders",
+      "url": "https://www.qu.edu.qa/en-us/offices/procurement/tenders-and-auctions",
+      "access": "public_browse"
+    },
+    {
+      "category": "grants_research",
+      "entity": "QRDI — Qatar Research, Development and Innovation Council",
+      "description": "Principal national research funding entity",
+      "url": "https://qrdi.org.qa/",
+      "access": "public",
+      "notes": "Operates ARP, NRP, RTP plus strategic calls (AIQAT, Agentic AI, PPM). Most calls require Lead Principal Investigator institutional affiliation."
+    },
+    {
+      "category": "grants_research",
+      "entity": "QRDI AIQAT (AI for Qatar)",
+      "description": "Joint QRDI + MCIT AI research grant",
+      "url": "https://www.middleeastainews.com/p/qatar-launches-ai-research-grant",
+      "access": "public_announcement",
+      "notes": "Up to QAR 1M / 2 years. Submission deadline 11 March 2026. Institutional affiliation + terminal degree required."
+    },
+    {
+      "category": "grants_research",
+      "entity": "QRDI Agentic AI Call (with QFC)",
+      "description": "Financial-sector AI research grant",
+      "url": "https://www2.fundsforngos.org/research/research-initiative-to-strengthen-financial-policy-and-support-funded-startups-in-qatar/",
+      "access": "public_announcement",
+      "notes": "Up to QAR 300,000 / 12 months. Submission deadline 26 February 2026. Institutional affiliation required."
+    },
+    {
+      "category": "grants_research",
+      "entity": "QRDI Path Towards Precision Medicine (PPM)",
+      "description": "Genomic and omics health research",
+      "url": "https://qrdi.org.qa/en-us/Scientific-Research/Path-Towards-Precision-Medicine-PPM",
+      "access": "public",
+      "notes": "Up to QAR 800,000 / year for up to 3 years. PhD + institutional affiliation."
+    },
+    {
+      "category": "grants_innovation",
+      "entity": "QSTP — Qatar Science & Technology Park",
+      "description": "Tech innovation hub and incubator",
+      "url": "https://qstp.qa/",
+      "access": "public",
+      "notes": "Multiple programs: XLR8 accelerator, Incubate, Tech Venture Fund, sector accelerators (WaterTech with TotalEnergies, FemTech with Merck), Stars of Science."
+    },
+    {
+      "category": "grants_innovation",
+      "entity": "QSTP XLR8 flagship accelerator",
+      "description": "14-week tech accelerator for Qatar-resident teams",
+      "url": "https://qstp.qa/qfs-qstp-announces-opening-of-applications-for-cycle-15-of-xlr8-its-flagship-accelerator-program/",
+      "access": "public",
+      "notes": "Cycle 15 ran in 2025. Open to teams up to 5; must be Qatar residents; pre-company stage."
+    },
+    {
+      "category": "grants_innovation",
+      "entity": "Qatar FinTech Hub (QFTH)",
+      "description": "QDB-operated fintech accelerator and incubator",
+      "url": "https://fintech.qa/en",
+      "access": "public",
+      "notes": "Pre-Acceleration and Incubator programs. Incubator package value ~USD 250k including ~USD 40k cash investment."
+    },
+    {
+      "category": "grants_innovation",
+      "entity": "QDB / Invest Qatar — Startup Qatar Investment Program",
+      "description": "Equity-and-grant program with licensing and visa support",
+      "url": "https://startupqatar.qa/en/investment-program",
+      "access": "public",
+      "notes": "START up to USD 1.1M; GROW up to USD 5.5M. Priority sectors include AI/ML, FinTech, HealthTech."
+    },
+    {
+      "category": "grants_innovation",
+      "entity": "Qatar Development Bank — Ithmar (seed funding)",
+      "description": "Shari'a-compliant equity funding",
+      "url": "https://www.qdb.qa/financing-and-funding/equity-and-investment/capital-seed-funding-program",
+      "access": "public",
+      "notes": "Qatari-ownership requirement."
+    },
+    {
+      "category": "challenges",
+      "entity": "Qatar FinTech Hackathon",
+      "description": "Annual fintech sprint hackathon",
+      "url": "https://hackathon.fintech.qa/",
+      "access": "public",
+      "notes": "QAR 50,000 first prize in 2025 cycle."
+    },
+    {
+      "category": "challenges",
+      "entity": "Qatar Innovation Hackathon (QDB)",
+      "description": "Annual cross-domain innovation hackathon",
+      "url": "https://qdbhackathon.qa/",
+      "access": "public",
+      "notes": "QAR 25,000 Pre-Investment Award per 2025 cycle. Themes typically span AI/ML, AR, blockchain, IoT, quantum."
+    },
+    {
+      "category": "challenges",
+      "entity": "Stars of Science (Qatar Foundation)",
+      "description": "Multi-week televised inventor competition for Arab innovators",
+      "url": "https://www.qf.org.qa/research/stars-of-science",
+      "access": "public",
+      "notes": "12-week format; substantial cash prize for season winner."
+    },
+    {
+      "category": "consultancy_licensing",
+      "entity": "Qatar Financial Centre (QFC) — entity registration",
+      "description": "100% foreign-ownership financial-services hub",
+      "url": "https://www.qfc.qa/en/operating-with-qfc/registration",
+      "access": "public",
+      "notes": "USD 5,000 incorporation. 2-week processing for individual entity. FinTech APIs, cybersecurity for FinTech, cloud-for-FinTech, and DLT explicitly permitted."
+    },
+    {
+      "category": "consultancy_licensing",
+      "entity": "Qatar Central Bank — FinTech Sandbox",
+      "description": "Regulatory sandbox for fintech testing",
+      "url": "https://sandbox.qcb.gov.qa/",
+      "access": "public_apply",
+      "notes": "Two tracks: regular Sandbox and fast-track Express Sandbox. Recent approvals: TrustIn (Digital Escrow, July 2025), Paywise/Dibsy (Open Banking, July 2025)."
+    },
+    {
+      "category": "consultancy_licensing",
+      "entity": "TASMU Smart Qatar vendor program",
+      "description": "Smart-city vendor accreditation for 107 digital use cases",
+      "url": "https://tdv.motc.gov.qa/tasmu-smart-qatar",
+      "access": "multi_step_accreditation",
+      "notes": "QAR 6B 5-year program across transport, logistics, environment, healthcare, sports. Accreditation chain typically 4-8 months."
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Qatar Financial Centre — Research publications",
+      "description": "Sector studies and reports (e.g., Qatar Islamic Finance Report 2025)",
+      "url": "https://www.qfc.qa/en/media-centre/insights/research",
+      "access": "public_browse"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Qatar Centre for Global Banking and Finance (KCL partnership)",
+      "description": "Central-banking applied research collaboration",
+      "url": "https://www.kcl.ac.uk/research/qatar-centre-global-banking-finance",
+      "access": "public_browse"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Qatar Computing Research Institute (QCRI) — HBKU",
+      "description": "Arabic NLP, cybersecurity, data analytics research collaborations",
+      "url": "https://www.hbku.edu.qa/en/qcri",
+      "access": "public_email_for_collaboration"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Social and Economic Survey Research Institute (SESRI) — Qatar University",
+      "description": "Survey research, social-science data analysis",
+      "url": "https://sesri.qu.edu.qa/",
+      "access": "public_browse"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Arab Center for Research and Policy Studies (Doha Institute) — Hikama Journal",
+      "description": "Public administration and policy research; periodic special-issue calls",
+      "url": "https://www.dohainstitute.org/",
+      "access": "public_calls"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Gulf Studies Center (Qatar University) — Gulf Insights and Policy Briefs",
+      "description": "Politics, security, energy, and economics research on the Gulf region",
+      "url": "https://www.qu.edu.qa/en-us/Research/gulfstudies-center",
+      "access": "public_browse"
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "UNESCO Doha Office (Cluster Office for Gulf States and Yemen)",
+      "description": "Individual consultancies for sector studies, frameworks, evaluations",
+      "url": "https://careers.unesco.org/",
+      "access": "public_postings",
+      "notes": "Posted Terms of Reference. Doha-based individual consultancies appear sporadically."
+    },
+    {
+      "category": "research_commissioning",
+      "entity": "Qatar Open Data Portal (Planning and Statistics Authority)",
+      "description": "Open datasets on population, prices, commerce, environment, energy, vehicle registration",
+      "url": "https://www.data.gov.qa/",
+      "access": "public_data"
+    }
+  ]
+}

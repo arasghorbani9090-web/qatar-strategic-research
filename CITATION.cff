@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "Qatar Strategic Research: Transportation, Innovation Ecosystem, and Policy Landscape"
+abstract: >
+  Independent applied-research portfolio on Qatar's transportation infrastructure,
+  innovation ecosystem, and policy landscape. Includes a structured gap analysis of
+  Qatar transport research (2010-2026), a landscape map of the country's
+  research-funding mechanisms (QRDI, QNRF, QSTP, QFTH, QFC), and synthesis of
+  government strategic priorities. Designed to support decision-making by
+  government agencies, research institutes, innovation programs, and consultancies.
+authors:
+  - family-names: "Ghorbani"
+    given-names: "Aras"
+    affiliation: "Independent Researcher, Doha, Qatar"
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/arasghorbani9090-web/qatar-strategic-research"
+keywords:
+  - qatar
+  - doha
+  - transportation
+  - infrastructure
+  - urban mobility
+  - policy analysis
+  - innovation ecosystem
+  - research funding
+  - QRDI
+  - QSTP
+  - gap analysis
+  - applied research
+  - strategic research
+  - GCC
+  - MENA
+version: "1.0.0"
+date-released: "2026-06-24"

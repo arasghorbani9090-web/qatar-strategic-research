@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "description": "QRDI/QNRF funded research projects related to transportation/infrastructure in Qatar. Collected 2026-05-12 via web search.",
+    "limitations": "QGrants and QRDI Connect project portal both require authenticated access for full project listings. Many older NPRP grant numbers surface only via the acknowledgements section of resulting papers. Funding amounts are rarely disclosed publicly. This list is therefore non-exhaustive — a substantial fraction of NPRP cycles 1-13 transport projects are not surfaced through Google. Treat as a representative sample, not a complete census.",
+    "funding_landscape": {
+      "QNRF_NPRP_history": "Over first 6 years, QNRF NPRP funded 700+ projects totaling >USD 600M across all topics (RAND 2008+).",
+      "QRDI_restructure": "Council restructured ~2022 into three pillars: Academic Research Program, National Research Program (NRP), Research Talent Program.",
+      "NRP_calls_2024_2025": ["Climate Change and Environment Call (2nd cycle, Jan 2025)", "Economic Sustainability Call (Apr 2024)", "SeHatech (2026 cycle)", "Pathways Toward Prosperity (PTP)", "Qatar Logistics and Transportation Call (QLTC, Jul 2025)", "Modernizing Charitable Sector Call", "Preserving Qatar's Heritage Call", "Life-Long Education Call", "Road to BioPharma Call"],
+      "key_signal_2025": "July 2025: QRDI Council announced 30 awards across 6 Rapid Research Calls — QLTC is the explicit transportation/logistics vertical, partnered with Qatar Airways, focused on Sustainable Aviation Fuel (SAF). Awarded to HBKU, QU, UDST."
+    }
+  },
+  "projects": [
+    {
+      "project_title": "Modeling and Control of Information-Driven Smart Transportation Systems",
+      "PI": "unknown",
+      "institution": "unknown (Qatar-based)",
+      "year_awarded": 2021,
+      "amount_qar": null,
+      "amount_usd": 510000,
+      "duration_years": 3,
+      "duration_dates": "May 2021 - May 2024",
+      "funding_program": "NPRP",
+      "topic_keywords": ["smart transportation", "modeling", "control", "information-driven"],
+      "status": "completed (per duration)"
+    },
+    {
+      "project_title": "Analysis of road traffic crashes in the State of Qatar (NPRP 9-360-2-150)",
+      "PI": "Wael Alhajyaseen (likely)",
+      "institution": "Qatar University - QTTSC",
+      "year_awarded": 2017,
+      "amount_qar": null,
+      "duration_years": null,
+      "funding_program": "NPRP cycle 9",
+      "topic_keywords": ["traffic safety", "crash data", "Qatar Ministry of Interior"],
+      "status": "completed (paper 2019)",
+      "note": "Grant cited in 2019 Tandfonline crash analysis paper"
+    },
+    {
+      "project_title": "CopITS - Cooperative ITS for V2V/V2X communications (NPRP 3)",
+      "PI": "Hamid Menouar",
+      "institution": "Qatar Mobility Innovations Center (QMIC) likely",
+      "year_awarded": 2010,
+      "amount_qar": null,
+      "duration_years": 3,
+      "duration_dates": "Dec 2010 - Mar 2014",
+      "funding_program": "NPRP cycle 3",
+      "topic_keywords": ["V2V", "V2X", "ITS", "vehicular communications"],
+      "status": "completed"
+    },
+    {
+      "project_title": "Simulation and Modeling of Small/Medium-Sized Transportation and Communication Networks (NPRP 5-1272-1-214)",
+      "PI": "unknown",
+      "institution": "Qatar-based",
+      "year_awarded": 2013,
+      "amount_qar": null,
+      "funding_program": "NPRP cycle 5",
+      "topic_keywords": ["simulation", "transportation networks", "communication networks"],
+      "status": "completed (Springer paper)"
+    },
+    {
+      "project_title": "Rapid urban development and national master planning in Arab Gulf countries - Qatar case study (NPRP 5-074-5-015)",
+      "PI": "unknown",
+      "institution": "Qatar-based",
+      "year_awarded": 2013,
+      "funding_program": "NPRP cycle 5",
+      "topic_keywords": ["urban planning", "master planning", "GCC", "Qatar case study"],
+      "status": "completed (paper in Cities journal)"
+    },
+    {
+      "project_title": "Transit-Oriented Development in Middle Eastern Cities: Souq Waqif Urban Renewal Framework",
+      "PI": "unknown (QU student grant)",
+      "institution": "Qatar University",
+      "year_awarded": 2022,
+      "duration_years": 1.4,
+      "duration_dates": "Aug 2022 - Dec 2023",
+      "funding_program": "QU Student Grant 2022 cycle",
+      "topic_keywords": ["TOD", "urban renewal", "Doha", "walkability"],
+      "status": "completed"
+    },
+    {
+      "project_title": "Qatar Logistics and Transportation Call (QLTC) - awards bundle (7 institutions, 30 total awards across 6 calls)",
+      "PI": "multiple",
+      "institution": "Hamad Bin Khalifa University, Qatar University, University of Doha for Science and Technology",
+      "year_awarded": 2025,
+      "amount_qar": null,
+      "funding_program": "QRDI Rapid Research Call / NRP",
+      "topic_keywords": ["Sustainable Aviation Fuel (SAF)", "logistics", "transportation infrastructure", "sustainability"],
+      "status": "awarded Jul 2025",
+      "note": "Partnered with Qatar Airways. Focus on SAF — aviation-emphasized, NOT urban roads/congestion."
+    },
+    {
+      "project_title": "Pathways Toward Prosperity (PTP) - awards bundle",
+      "PI": "multiple",
+      "institution": "HBKU, QU, UDST",
+      "year_awarded": 2025,
+      "funding_program": "QRDI NRP - Scientific Research Programs Office",
+      "topic_keywords": ["economic prosperity", "national development", "research capacity"],
+      "status": "awarded Jul 2025"
+    },
+    {
+      "project_title": "$130M+ to Qatar research projects across multiple cycles",
+      "PI": "various",
+      "institution": "Qatar-based institutions",
+      "year_awarded": "various",
+      "funding_program": "QNRF NPRP historical aggregate",
+      "topic_keywords": ["health", "energy", "ICT", "social sciences", "engineering", "environment"],
+      "status": "various",
+      "note": "Doha News reporting; transportation share unspecified but historically a minority of NPRP portfolio."
+    }
+  ],
+  "observations": {
+    "transportation_share": "Transportation is a recurring NPRP theme but not dominant. Qatar's research funding skews toward: energy, health, ICT, materials. The 2025 QLTC explicitly signals transportation/logistics priority — but with strong SAF/aviation/maritime emphasis, less so urban congestion or road-network supply-demand analysis.",
+    "named_PIs_clustered": "Wael Alhajyaseen (QTTSC, QU) appears to be the dominant Qatar-based transportation researcher by publication count. Eyad Masad (TAMU-Q) is the senior pavement/transportation engineer. Hamid Menouar (QMIC) handles V2X/ITS infrastructure.",
+    "data_sources_used_in_prior_grants": ["Qatar Ministry of Interior crash data (Alhajyaseen)", "QU driving simulators", "OSM/GIS (limited)", "MOTC traffic counts", "Survey data — heavy use"],
+    "gap_signal": "Very little surfaced funded work using PSA/Comtrade economic data, satellite imagery, big mobility data (TomTom/HERE/Mapbox), or longitudinal OSM history. Most funded work is microscale (crashes, simulators, surveys at specific roundabouts/sites)."
+  }
+}
